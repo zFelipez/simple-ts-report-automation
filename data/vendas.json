@@ -1,0 +1,21 @@
+[
+  {
+    "produto": "Camiseta",
+    "valor": 20
+  },
+  {
+    "produto": "Bone",
+    "valor": 30
+  } ,
+  {
+    "produto" : "Meia", 
+    "valor" : 60
+  },
+  {
+    "produto" :"Camiseta",
+    "valor": 234
+  },{
+    "produto" :"Bone",
+    "valor": 254
+  }
+]
